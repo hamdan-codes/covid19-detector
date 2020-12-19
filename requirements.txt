@@ -1,0 +1,1 @@
+Keep the train and validation folder inside a new folder named "CovidDataset" with the jupyter notebook.
